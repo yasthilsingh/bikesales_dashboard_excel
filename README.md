@@ -2,6 +2,8 @@
 
 This project features an interactive Excel dashboard that provides a clear and insightful overview of bike sales performance across regions, product categories, and customer demographics.
 
+![Dashboard Preview](https://github.com/yasthilsingh/bikesales_dashboard_excel/blob/main/image.png)
+
 ## 📊 Dashboard Features
 
 - **Total Revenue Analysis** – Aggregated revenue by region and segment.
@@ -19,7 +21,7 @@ This project features an interactive Excel dashboard that provides a clear and i
 
 ## 📁 File Access
 
-- 📥 [Download the Excel Dashboard](https://github.com/your-username/bikesales_dashboard_excel/blob/main/Bike%20Sales%20Dashboard.xlsx)
+- 📥 [Download the Excel Dashboard](https://github.com/yasthilsingh/bikesales_dashboard_excel/blob/main/Bike%20Sales%20Dashboard.xlsx)
 - 🔗 [Raw Excel File (Direct Download)](https://raw.githubusercontent.com/yasthilsingh/bikesales_dashboard_excel/main/Bike%20Sales%20Dashboard.xlsx)
 
 > ⚠️ Make sure to enable macros and slicers for full dashboard interactivity if prompted.
@@ -28,5 +30,4 @@ This project features an interactive Excel dashboard that provides a clear and i
 
 This Excel dashboard was created to showcase my ability to work with business data, extract meaningful insights, and present them in a visually effective way. It serves as a practical portfolio project to demonstrate skills in business analysis, Excel reporting, and dashboard design.
 
----
 
